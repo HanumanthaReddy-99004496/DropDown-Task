@@ -8,6 +8,12 @@
     {"name":"USA","states":[{"name":"california","cities":["Los Angeles","San Diego","San jose"]},
     {"name":"Texas","cities":["Houston","Dallas","San Antonio"]},
     {"name":"Florida","cities":["Jacksonville","Miami","Tampa"]},
-    {"name":"Washington","cities":["Seattle","Tacoma","Spokanne"]}]}
+    {"name":"Washington","cities":["Seattle","Tacoma","Spokanne"]}]},
+
+    {"name":"Australia","states":[{"name":"Victoria","cities":["Melbourne","Geelong","Bendigo"]},
+    {"name":"QueensLand","cities":["Brisbane","Gold Coast","Cairns"]},
+    {"name":"Tasmania","cities":["Hobart","Launceston","Devonport"]},
+    {"name":"South Australia","cities":["Adelaide","Port Augusta","Port Lincoln"]}]}
+
 
 ]
