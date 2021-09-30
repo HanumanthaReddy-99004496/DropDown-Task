@@ -1,0 +1,13 @@
+[
+    {"name":"India","states":[{"name":"Andhra Pradesh","cities":["Vijayawada","Tirupathi","Vizag"]},
+    {"name":"Karnataka","cities":["Banglore","Mysore","bellary"]},
+    {"name":"Tamilnadu","cities":["chennai","vellore","coimbatore"]},
+    {"name":"Uttar Pradesh","cities":["Noida","Gurgoan","Lucknow"]},
+    {"name":"Maharastra","cities":["Mumbai","Thane","Nagpur"]}]},
+
+    {"name":"USA","states":[{"name":"california","cities":["Los Angeles","San Diego","San jose"]},
+    {"name":"Texas","cities":["Houston","Dallas","San Antonio"]},
+    {"name":"Florida","cities":["Jacksonville","Miami","Tampa"]},
+    {"name":"Washington","cities":["Seattle","Tacoma","Spokanne"]}]}
+
+]
